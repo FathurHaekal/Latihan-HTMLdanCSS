@@ -1,0 +1,8 @@
+position = static, relative, absolute, fixed
+
+Static
+- static adalah nilai default dari tiap-tiap elemen ketika tidak diberi properti position
+- menggunakan position selain static, akan membuat elemen menjadi seolah-olah berbeda dimensi dari elemen lainnya
+- elemen yang diberi position selain statuc daoat menggunakan, properti top, left, bottom dan right untuk mengatur posisinya
+
+position: relative; (muncul keatas satu dimensi

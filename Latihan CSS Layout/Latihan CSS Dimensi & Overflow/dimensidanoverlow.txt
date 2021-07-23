@@ -1,0 +1,11 @@
+Dimensi = untuk mengatur size
+	width = px / %
+	height = px / %
+
+Overflow = mengatur elemen yang keluar dari parent
+
+   Value Overflow = 
+		1. Visible
+		2. auto =  menambahkan scroll kontennya banyak kalo cukup gada scroll
+		4. hidden = konten yang kelaur dari parent akan disembunyikan
+		4. scroll = nambahin scroll

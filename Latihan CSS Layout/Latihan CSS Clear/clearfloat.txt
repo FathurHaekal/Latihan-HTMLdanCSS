@@ -1,0 +1,26 @@
+cara membersihkan float
+1. menggunakan property overflow
+	container	
+overflow = auto;
+2. menggunakan <div> kosong
+	.clear{
+	clear: left;	
+}
+
+taro div.clear di bawah
+3. menggunakan teknik mikro clearfix = left right both
+
+** tambahin class .cf di div yang ingin dibersihkan floatnya = div class"container cf" div
+
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+
+

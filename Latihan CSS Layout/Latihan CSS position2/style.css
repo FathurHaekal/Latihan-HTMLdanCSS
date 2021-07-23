@@ -1,0 +1,31 @@
+body{
+    box-sizing: border-box;
+}
+
+nav{
+    display: inline;
+    width: auto;
+    background: brown;
+}
+
+nav .email{
+    text-decoration: none;
+    text-align: left;
+
+}
+
+nav .logout a{
+    margin-bottom: 100px;
+    float: right;
+
+}
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+

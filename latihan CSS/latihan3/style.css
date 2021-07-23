@@ -1,0 +1,15 @@
+h1{
+	font-size: corleone;
+	text-align: center;
+
+}	
+
+body{
+
+	background-color: red;
+	background-image: url(gambar1/g2.png);
+	background-repeat: repeat-y;
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+

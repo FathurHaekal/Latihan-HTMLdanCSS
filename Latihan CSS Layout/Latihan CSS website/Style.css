@@ -1,0 +1,95 @@
+.container{
+    width: 900px;
+    border: 1px solid;
+    margin: auto;
+}
+.picture{
+    box-sizing: border-box;
+    width: 900px;
+    margin-top: 5px;
+ 
+}
+.harits{
+    width: 100px; 
+    float: left; 
+    margin: 5px;
+ 
+   
+}
+body html{
+    height: 100%;
+    margin: 0;
+
+    
+}
+.logo{
+    width: 200px;
+}
+
+.nav ol li{
+    display: inline-block;
+    padding-right: 10px;
+    margin: auto;
+    padding-bottom: 100px;
+
+}
+
+ol li a{
+    text-decoration: none;
+}
+li a:hover {
+color: rgb(109, 94, 189); 
+}
+
+.content .main{
+    color: salmon;
+    
+}
+
+.content{
+    box-sizing: border-box;
+    width: 900px;
+    margin-top: 5px;
+ 
+}
+
+.apa .isi{
+    width: 400px;
+    float: left;
+    padding: 20px;
+}
+
+.footer{
+    background-color: black;
+    width: auto;
+    height: auto;
+
+}
+.footer .copy{
+   
+        text-align: center;
+        padding: 3px;
+        background-color: DarkSalmon;
+        color: white;
+      
+}
+
+
+.lah p {
+
+    float: right;
+    padding: 20px;
+}
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+.cf {
+    *zoom: 1;
+}

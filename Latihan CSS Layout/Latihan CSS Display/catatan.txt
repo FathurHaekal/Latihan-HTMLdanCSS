@@ -1,0 +1,33 @@
+Materi Layout CSS Display
+
+Fungsi tag =
+
+ <div></div> = berfungsi untuk mengelompokkan codingan agar rapih atau membuat class
+ <span></span>  = mengubah atau memodifikasi teks secara spesifik  
+
+- Value Display
+	- inline	= 
+			1. margin dan padding hanya mempengaruhi elemaen secara horizontal, tidak vertikal 
+			2. lebar dan tinggi elemennya sebesar konten yang ada di dalamnya
+			3. tidak dapat mengatur tinggi dan lebar dari elemen inline
+		elemen inline = b, string, i , em, a, span, sub, sup, button, input, label, select, textarea
+
+
+
+
+
+
+	- inline-block
+		1. tidak ada elemen yang secara default memiliki properti display: inline-block;
+		2. perilaku dasarnya sama dengan elemen inline
+		3. perbedaannya, elemen inline-block dapat kita atur tinggi dan lebarnya
+	- block
+		1. elemen HTMl yang secara default menambahkan baris baru ketika dibuat
+		2. jika tidak diatrue lebarnya, maka lebar default dari elemen block akan memenuhi lebar dari
+			browser atau parent
+		3. kita dapat mengatur tinggi dan lebar dari elemen blok
+		4. di dalam elemen block, kita dapat menyimpan tag dengan elemen inline, inline-block, atau 
+			elemen block lagi
+
+		elemen block = h1 - h6, p, ol, ul, li, form, hr, div
+	- none menghilangkan sebuah elemen

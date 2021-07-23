@@ -1,0 +1,11 @@
+.container{
+    width: 600px;
+    border: 1px solid black;
+    margin: auto;
+}
+
+.foto{
+    float: left;
+    padding-right: 5px;
+}
+

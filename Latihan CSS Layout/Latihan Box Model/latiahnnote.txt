@@ -1,0 +1,21 @@
+Margin area transparan dia area kotak
+
+margin overlapping = gabungin marjin
+
+margin vertikal dipilih paling besar 
+jika horizontal marg in kanan dan kiri akan di tambah
+
+negativ marjin kotak akan bergerak berlawanan arah
+
+
+auto margin khusus margin kiri dan kanan
+auto ngkutin size website
+css{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+shorth hand margin
+
+margin: 50px (atas) 100px(kanan) 50px (bawah) 40px (kiri)

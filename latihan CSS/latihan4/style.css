@@ -1,0 +1,32 @@
+h1, h2{
+	color: lightcoral;
+
+
+}
+
+body{
+
+	font-family: monospace;
+	background-color: black;
+}
+
+ol li a{
+
+color: yellow;
+
+}
+
+
+#p1{
+
+	color: blue;
+}
+.p2{
+
+	color: red;
+
+}
+
+.p.cetak{
+	font-weight: bold;
+}

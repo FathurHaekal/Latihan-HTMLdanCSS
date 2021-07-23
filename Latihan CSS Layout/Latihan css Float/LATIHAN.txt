@@ -1,0 +1,7 @@
+Float merupakan properti pada css untuk mengatur sebuah elemen. 
+sebuah elemen dapat dipaksa untuk berada di sebelah kiri atau kanan 
+dari parent/ pembeungkusnya dengan menggukanan properi float
+
+float = none, left, right
+
+normal flow vs out of flow
